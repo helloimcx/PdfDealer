@@ -1,6 +1,5 @@
 import tkinter
 import tkinter.filedialog
-from tkinter.filedialog import askdirectory
 from dealer import verticalCut
 
 class Frame:
